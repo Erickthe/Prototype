@@ -1,7 +1,7 @@
 # Prototype
 
 ## Contextualisation
-Le projet s'appelle le simulateur de planète. C'est un simulateur où le joueur interagit avec la planète et ses habitants ce qui changera des aspects de la planète et son évolution.
+Le projet est un simulateur de planète. C'est un simulateur où le joueur interagit avec la planète et ses habitants ce qui changera des aspects de la planète et son évolution.
 
 
 ## Ma partie
