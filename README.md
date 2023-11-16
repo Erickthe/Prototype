@@ -11,6 +11,7 @@ J'ai travaillé sur un effet Unity pour simuler une explosion qui serait utilis�
 Ce que je voulais tester durant le prototypage, c'est de faire un effet unity avec des particles pour créer une explosion réaliste qui serait appliquée à la fin du projet quand la planète explose. J'ai essayé de faire une explosion non-réaliste et une explosion réaliste dépendamment de l'effet artistique qu.on va appliquer dans le projet final.
 
 Style non-réaliste
+
 https://github.com/Erickthe/Prototype/assets/93773586/05685cdf-8fdd-438d-9d4c-01f072a6a8d3
 
 
